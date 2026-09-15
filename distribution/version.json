@@ -14,7 +14,7 @@
     "Admin Question Bank management portal with PIN protection, bulk JSON import/export, and subject filters",
     "Built-in secure Over-The-Air (OTA) update checker and installer"
   ],
-  "apkUrl": "https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPOSITORY_NAME/releases/download/v1.0.0/ExamSathi-v1.0.0-release.apk",
+  "https://github.com/sonukastikari-gif/examsathi/releases/download/v1.0.0/ExamSathi-v1.0.0-release.apk,
   "apkSizeBytes": 16041377,
   "sha256": "8b697abd3fe690db7ff3e48066662fc6d6926a1f3934fa4fc3555d5d5da24c71"
 }
