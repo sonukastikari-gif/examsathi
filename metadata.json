@@ -1,0 +1,6 @@
+{
+  "name": "ExamSathi",
+  "description": "Smart, offline-first exam preparation app with mock tests, question navigation, timer, analytics, solutions, and adaptive practice foundation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

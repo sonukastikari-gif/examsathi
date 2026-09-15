@@ -1,0 +1,20 @@
+{
+  "versionCode": 1,
+  "versionName": "1.0.0",
+  "minSupportedVersionCode": 1,
+  "title": "ExamSathi v1.0.0 Official Production Release",
+  "releaseDate": "2026-09-15",
+  "changelog": [
+    "Initial Official Production Release of ExamSathi",
+    "Offline-first Indian competitive examination preparation system (SSC, UPSC, Banking, Railway)",
+    "Full-featured Mock Test engine with real-time countdown timer and question navigation grid",
+    "Instant score evaluation with negative marking (-0.50/wrong) and detailed subject breakdowns",
+    "AI-powered Adaptive Practice mode with fallback rule-based generation",
+    "Institutional Branding and PDF scorecard generation with watermarks and digital verification badges",
+    "Admin Question Bank management portal with PIN protection, bulk JSON import/export, and subject filters",
+    "Built-in secure Over-The-Air (OTA) update checker and installer"
+  ],
+  "apkUrl": "https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPOSITORY_NAME/releases/download/v1.0.0/ExamSathi-v1.0.0-release.apk",
+  "apkSizeBytes": 16041377,
+  "sha256": "8b697abd3fe690db7ff3e48066662fc6d6926a1f3934fa4fc3555d5d5da24c71"
+}

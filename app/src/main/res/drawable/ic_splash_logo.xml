@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="160dp"
+    android:height="160dp"
+    android:viewportWidth="160"
+    android:viewportHeight="160">
+    <!-- Circular background badge -->
+    <path
+        android:fillColor="#1E1B4B"
+        android:pathData="M80,10 A70,70 0 1,0 80,150 A70,70 0 1,0 80,10 Z" />
+    <path
+        android:fillColor="#4F46E5"
+        android:pathData="M80,14 A66,66 0 1,0 80,146 A66,66 0 1,0 80,14 Z" />
+    <path
+        android:fillColor="#0F172A"
+        android:pathData="M80,20 A60,60 0 1,0 80,140 A60,60 0 1,0 80,20 Z" />
+
+    <!-- Open Book Base -->
+    <path
+        android:fillColor="#E0E7FF"
+        android:pathData="M44,102 C56,96 71,96 80,100 C89,96 104,96 116,102 L116,111 C104,105 89,105 80,109 C71,105 56,105 44,111 Z" />
+    <path
+        android:fillColor="#818CF8"
+        android:pathData="M77,100 L77,109 C68,105 56,105 46,109 L46,103 C56,97 69,97 77,100 Z" />
+    <path
+        android:fillColor="#C7D2FE"
+        android:pathData="M83,100 L83,109 C92,105 104,105 114,109 L114,103 C104,97 91,97 83,100 Z" />
+    <path
+        android:fillColor="#4338CA"
+        android:pathData="M78.5,99 L81.5,99 L81.5,112 L78.5,112 Z" />
+
+    <!-- Graduation Cap Rhombus Top -->
+    <path
+        android:fillColor="#FBBF24"
+        android:pathData="M80,50 L118,67 L80,84 L42,67 Z" />
+    <!-- Cap Rim / Under Skullcap -->
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M57,73.5 L57,85 C57,91 66,94 80,94 C94,94 103,91 103,85 L103,73.5 L80,84 Z" />
+    <!-- Cap Rim Highlight -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:fillAlpha="0.35"
+        android:pathData="M80,50 L118,67 L110,70 L80,56 L50,70 L42,67 Z" />
+
+    <!-- Tassel and Ribbon -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M80,67 C80,64.5 77.5,64.5 77.5,67 L77.5,86 L82,86 L82,67 Z" />
+    <path
+        android:fillColor="#FCD34D"
+        android:pathData="M75,85 L84.5,85 L82,94 L77.5,94 Z" />
+
+    <!-- Sparkle / Badge Star -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M113,49 L115.5,55.5 L122,58 L115.5,60.5 L113,67 L110.5,60.5 L104,58 L110.5,55.5 Z" />
+</vector>
