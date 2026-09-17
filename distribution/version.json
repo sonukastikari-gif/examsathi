@@ -3,14 +3,14 @@
   "versionName": "1.0.1",
   "minSupportedVersionCode": 1,
   "title": "ExamSathi v1.0.1 Official Release",
-  "releaseDate": "2026-09-15",
+  "releaseDate": "2026-09-17",
   "changelog": [
-    "Updated application version to v1.0.1",
-    "Improved and verified GitHub-based OTA update configuration",
-    "Preserved existing Student, Admin, Mock Test, Adaptive Practice, Question Bank, Branding, PDF, Security and Gemini functionality",
-    "Release APK is signed with the production release key"
+    "OTA UI architecture refactor",
+    "Live update status and download progress",
+    "Improved OTA update state reactivity",
+    "Existing Student, Admin, Mock Test, Adaptive Practice, Question Bank, Branding and PDF functionality preserved"
   ],
   "apkUrl": "https://github.com/sonukastikari-gif/examsathi/releases/download/v1.0.1/ExamSathi-v1.0.1-release.apk",
   "apkSizeBytes": 16041377,
-  "sha256": "e240e29b34b93deea27b95b546727ce91bd93db023772f3d876bf95c83e0adc9"
+  "sha256": "5f03b784124c645c35e0d504f01ddd9780dd83ce3a9c7b7d39426335f95ed9ca"
 }
